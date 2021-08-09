@@ -1,0 +1,25 @@
+.titulo-1{
+    font-size:80px;
+}
+.flexcontainer{
+    display:flex;
+    align-items: center;
+    flex-direction:column ;
+    justify-content:center;
+}
+
+div>label{
+    color:white;
+}
+.boton{
+    width: 100%;
+    border-radius:30px;
+    background-color:#3D02EB;
+    border-top:#3D02EB;
+    display:flex;
+    align-items:center;
+}
+
+.boton:hover{
+    background-color:#290087;
+}
